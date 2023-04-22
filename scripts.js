@@ -1,7 +1,8 @@
 const pepperImages = [
-    'pepper1.jpg',
-    'pepper2.jpg',
-    'pepper3.jpg',
+    'pepper1.png',
+    'pepper2.png',
+    'pepper3.png',
+    'pepper4.png',
     // Add more image file names here
 ];
 
